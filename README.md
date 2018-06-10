@@ -1,8 +1,8 @@
-Summary:
+#Summary
 
-On May 2, 2018 my family from the Cebu Philippines bought a new Honda Brio from Honda Cars Cebu, Inc. https://www.google.co.nz/maps/place/Honda+Cars+Cebu,+Inc./@10.3102662,123.9142775,15z/data=!4m2!3m1!1s0x0:0x6fc165968d4a65bc?sa=X&ved=0ahUKEwjt472Z28jbAhULa7wKHbmOC8MQ_BIItgMwPw
+On May 2, 2018 my family from Cebu Philippines bought a new Honda Brio from Honda Cars Cebu, Inc. https://www.google.co.nz/maps/place/Honda+Cars+Cebu,+Inc./@10.3102662,123.9142775,15z/data=!4m2!3m1!1s0x0:0x6fc165968d4a65bc?sa=X&ved=0ahUKEwjt472Z28jbAhULa7wKHbmOC8MQ_BIItgMwPw
 
-We paid for the full amount but the car we got had so many problems that even until now, June 10, 2018 - we've been going back to Honda Cars Cebu, Inc. for checking / "fixes".
+We paid for the full amount but the car we got had so many problems that even until now, June 10, 2018 the problem is still exists. In the first email I’ve sent to customer_relations@hondaphil.com I’ve document how often we've been going back to Honda Cars Cebu, Inc. for checking / "fixes".
 
 The purpose of this is to publicly monitor the process of this ordeal. I hope it gets much needed media attention so that at least we get the car that we paid for.
 
@@ -12,7 +12,7 @@ This is my first email sent on: Jun 6, 2018, 7:44 PM
 
 **Subject: Problem with Honda Brio (DT18__)**
 
-This email is regarding the Honda Brio (DT18__) that my brother, Alberto Del Rosario II.
+This email is regarding the Honda Brio (DT18__) that my brother -bought-. (I have removed my brother's name for the meantime)
 
 I initially reported this issue on Twitter:
 
@@ -147,4 +147,8 @@ Best regards,
 Wenbert
 
 
-PS: When replying please reply to both wen___@gmail.com and alberto________@gmail.com
+PS: When replying please reply to both wen___@gmail.com and alb____@gmail.com
+
+----------------
+
+This is still on-going. I will update this file for progress. We've had back-and-forth emails from Honda but no real progress yet.
